@@ -142,3 +142,4 @@ We prepared three kinds of atlas images and atlas masks. The one is the JTD-Bogg
 ## License
 This repository is licensed under CC BY 4.0.
 Please see the details in [LICENSE.md](./LICENSE.md).
+© Juntendo University and FUJIFILM Corporation 2023
